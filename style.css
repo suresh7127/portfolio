@@ -1,0 +1,79 @@
+body {
+  background-color: #efeee7;
+font-family: 'Georgia', Times, Times New Roman, serif;
+color: #333333;
+margin:0;
+padding:0;
+font-size: 18px;
+line-height: 150%;
+background-image:url(/Users/sureshmahato/Desktop/Basic-Portfolio/email-pattern.jpeg);
+}
+header {
+  padding: 20px;
+  color:#ffffff;
+  background: #4aaaa5;
+  border: 2px solid #cccccc;
+  width: 250px;
+  margin-left: 200px;
+}
+#nav {
+  background-color: #4aaaa5;
+  height:35px;
+  font-size: 25px;
+  font-weight: bold;
+  font: Tahoma;
+  float: right;
+  margin-right: 200px;
+
+}
+#nav ul{
+  padding: 0px;
+  margin: 0;
+  list-style-type:none;
+  text-align: center;
+  float: right;
+}
+#nav li{
+  display: inline;
+  padding: 15px;
+  vertical-align: middle;
+}
+#nav a{
+  text-decoration: none;
+  padding: 8px 8px 8px 8px;
+  color: white;
+  vertical-align: middle;
+  float: right;
+}
+
+h1{
+color:#fff;
+font-size: 28px;
+text-align: center;
+padding:0;
+margin-bottom: 0;
+}
+h2 {
+  font-size: 24px;
+  color: #4aaaa5; 
+}
+
+
+.Main-bio {
+  width:960px;
+color: #777777;
+border: 2px solid #dddddd;
+background-color: #ffffff;
+margin-left: 200px;
+}
+#bio-image {
+  float: left;
+margin-right: 20px;
+}
+#footer{
+  border: 2px solid black;
+  color: rgb(32, 29, 29);
+  background-color:#666666;
+  text-align: center;
+  margin-top: 175px;
+}
